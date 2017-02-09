@@ -11,6 +11,6 @@ public class Main {
 	}
 	
 	public int myltiply(int a, int b) {
-		return 2*a;
+		return a*b;
 	}
 }
