@@ -9,4 +9,8 @@ public class Main {
 	public int subtract(int a, int b) {
 		return a-b;
 	}
+	
+	public int myltiply(int a, int b) {
+		return 2*a;
+	}
 }
